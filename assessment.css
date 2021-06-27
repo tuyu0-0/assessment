@@ -1,0 +1,38 @@
+body{
+    background-color:#a21b0a;
+
+    color: #66e0f0;
+    font-family: 'x14y24pxHeadUpDaisy';
+    font-size: 25px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+text-align: center;
+
+}
+
+div{
+    color:#66e0f0;
+    font-family:'x12y16pxMaruMonica';
+}
+
+
+button{
+    padding: 5px 20px;
+    font-size: 15px;
+    font-family: 'x12y20pxScanLine' ;
+    background-color: rgb(59, 53, 36);
+    color: hsl(203, 100%, 87%);
+    border-style: double;
+}
+input{
+    background-color: rgb(32, 32, 2);
+    color: #66e0f0;
+    font-family: 'x12y16pxMaruMonica';
+    font-size: 15px;
+    height: 20px;
+}
+
+/* TODO 1/65536の時、背景を黒くして、
+赤文字の「すぐに消せ」が沢山表示される様にする。
+また「すぐに消せが」綺麗に整うように<p>で囲う。*/
